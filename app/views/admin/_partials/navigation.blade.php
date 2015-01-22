@@ -1,0 +1,1 @@
+/var/www/testPro/app/views/admin/_partials/navigation.blade.php

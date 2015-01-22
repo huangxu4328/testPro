@@ -1,0 +1,1 @@
+/var/www/testPro/app/views/admin/_partials/assets.blade.php
